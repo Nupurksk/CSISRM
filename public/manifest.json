@@ -1,0 +1,6 @@
+{
+  "short_name": "DevClubWebsite",
+  "name": "DevClub Website",
+  "start_url": ".",
+  "display": "standalone"
+}
